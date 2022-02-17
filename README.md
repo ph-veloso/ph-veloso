@@ -5,9 +5,6 @@ Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
 <img align="right" height="135" src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" />
 
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
-
-
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
