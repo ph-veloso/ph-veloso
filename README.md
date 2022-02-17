@@ -35,29 +35,24 @@ Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
 
 #### Rede Sociais!
 <p align="left">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://instagram.com/pedro._.veloso/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-193549?style=for-the-badge&logo=instagram&logoColor=c576c2"
     />
   </a>
-  <a href="https://twitter.com/seu-usuario">
+  <a href="https://twitter.com/pedroSem_Pai">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-193549?style=for-the-badge&logo=twitter&logoColor=c576c2"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Discord-193549?style=for-the-badge&logo=discord&logoColor=c576c2">
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/pedro-henrique-veloso-de-carvalho-92a0351b6/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-193549?style=for-the-badge&logo=linkedin&logoColor=c576c2"
   </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
+  <a href="https://www.facebook.com/pedrohenrique.21025/">
     <img
       align="center"
       src="https://img.shields.io/badge/facebook-193549?style=for-the-badge&logo=facebook&logoColor=c576c2"
