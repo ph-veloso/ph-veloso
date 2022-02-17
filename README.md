@@ -21,7 +21,7 @@ Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-veloso&show_icons=true&theme=cobalt&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-veloso&show_icons=true&theme=cobalt&line_height=20" alt="Pedro Henrique Veloso github stats"/>
 </a>
 
 <a href="https://github.com/Gurupreet">
