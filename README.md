@@ -33,7 +33,7 @@ Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
 [linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
 <br>
 
-#### Rede Sociais!
+#### Redes Sociais!
 <p align="left">
   <a href="https://instagram.com/pedro._.veloso/">
     <img
