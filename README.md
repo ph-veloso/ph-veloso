@@ -20,14 +20,10 @@ Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ph-veloso&show_icons=true&theme=cobalt&line_height=20" alt="Pedro Henrique Veloso github stats"/>
-</a>
-
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-veloso&layout=compact&theme=cobalt&hide_langs_below=1" />
-</a>
-
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ph-veloso&count_private=true&show_icons=true&theme=cobalt"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ph-veloso&show_icons=true&locale=en&layout=compact&theme=cobalt"/>
+</p>
 
 
 [website]: https://codedev.ga/
