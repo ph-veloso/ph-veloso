@@ -1,7 +1,7 @@
 
 # Olá! Prazer, Pedro Henrique Veloso! 👋
 
-Apaixonado por tecnologia, e desbravando o mundo do Back-end 🧗🏻‍♀️
+Apaixonado por tecnologia, e desbravando o mundo do desenvolvimento web 🧗🏻‍♀️
 <img align="right" height="135" src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" />
 
 
